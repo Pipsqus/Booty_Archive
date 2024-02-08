@@ -62,17 +62,17 @@ echo '<!DOCTYPE html>
 </head>
 <body>
 <h1>Booty Archive</h1>
-<div class="flex">' > Booty_Archive.html
+<div class="flex">' > index.html
 
 for element in *;
 	do
 		if [ -d "$element" ]; then
-			echo "<a href='$element/html/$element.html' class=portals style='--url: url(\"$element/$element.png\");'><b>$element</b></a><br>" >> Booty_Archive.html;	
+			echo "<a href='$element/html/$element.html' class=portals style='--url: url(\"$element/$element.png\");'><b>$element</b></a><br>" >> index.html;	
 		fi
 done;
 
 echo '</div>
 </body>
-</html>' >> Booty_Archive.html
+</html>' >> index.html
 
 exit
