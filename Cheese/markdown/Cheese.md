@@ -33,6 +33,8 @@ They're even less retained than animal rennet
 - _Animal_  
 Avoid
 
+Single strength: 1ml coagulates 5L of milk (200 IMCU)
+
 ### CULTURES
 
 - __Starter__  
