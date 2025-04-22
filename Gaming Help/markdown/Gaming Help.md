@@ -17,14 +17,14 @@
 
 #### EGGS
 
-- Bacon and Eggs -> Meat >1x + Egg >1x  
-- Barnacle Nigiri -> Barnacle 1x + Kelp Frond 1x + Egg 1x + Filler 1x  
-- Breakfast Skillet -> Egg 1x + Veg 1x + Filler 2x  
-- Pierogi -> Egg 1x + Meat >0.5x + Veg >0.5x + Filler 1x  
 - Plain Omelette -> Egg 3x + Filler 1x  
-- Tall Sotch Eggs -> Tall Bird Egg 1x + Veg 1x  
+- ![](media/Breakfast_Skillet_Build.webp) Breakfast Skillet -> Egg 1x + Veg 1x + Filler 2x  
+- Bacon and Eggs -> Meat 1x + Egg 1x  
+- Pierogi -> Egg 1x + Meat 0.5x + Veg 0.5x + Filler 1x  
+- Tall Scotch Eggs -> Tall Bird Egg 1x + Veg 1x  
 - Waffles -> Butter 1x + Berries 1x + Egg 1x + Filler  
 - Monster Tartare -> Monster Food 2x + Filler 2x non-inedible  
+- Barnacle Nigiri -> Barnacle 1x + Kelp Frond 1x + Egg 1x + Filler 1x  
 
 #### VEGETABLES
 
@@ -71,7 +71,7 @@
 	
 - Pepper
 	- Stuffed Pepper Poppers -> Pepper 1x + Meat 0.5 + Filler 2x non-twig  
-
+	- Hot Dragon Chili Salad -> Dragon Fruit 1x + Pepper 1x + Filler 2x non-twig/meat  
 
 #### FRUIT
 
